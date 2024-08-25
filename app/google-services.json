@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "845774208257",
+    "project_id": "poe1-d174f",
+    "storage_bucket": "poe1-d174f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845774208257:android:1c2d58d9c8609f9bb76f00",
+        "android_client_info": {
+          "package_name": "com.example.poe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIEjRUCnHg38DJAy8Sub9Hf-hF9ZazfR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
